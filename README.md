@@ -31,6 +31,9 @@ npm run build
 ```sh
 npm run lint
 ```
-npm install
-  npm run format
-  npm run dev
+
+### project to dos
+- [x] get tailwind working
+- [] fix tailwind module exports warning and unknown rule issue ( i think it's a linting thing)
+- [] clear out default vite components and style
+-

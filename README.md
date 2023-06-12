@@ -1,14 +1,12 @@
 # offline-first-pwa
 
-This template should help get you started developing with Vue 3 in Vite.
+I started this project to get a better understanding of how to work with and build PWA apps following an offline-first approach. I used a laracast tutorial for building an offline first app using vue CLI:
+As vue CLI is in maintenace mode, I decided to follow this tutorial using create-vue to create my app on a more modern stack using vite and vue3.
 
-## Recommended IDE Setup
+Goals:
+- [] understand how to follow an offline first approach
+- [] get a better understanding of how service workers work!
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
@@ -33,3 +31,6 @@ npm run build
 ```sh
 npm run lint
 ```
+npm install
+  npm run format
+  npm run dev

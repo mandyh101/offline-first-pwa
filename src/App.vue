@@ -1,5 +1,5 @@
 <script setup>
-import Layout from './components/Layout.vue'
+import MainLayout from './components/MainLayout.vue'
 
 </script>
 
@@ -7,7 +7,7 @@ import Layout from './components/Layout.vue'
 
 
     <div id="app">
-      <Layout />
+      <MainLayout />
 
     </div>
 </template>

@@ -7,7 +7,7 @@
   </aside>
   <main class="flex flex-col flex-grow overflow-auto">
 <!-- TODO change focus colour?? -->
-  <editor-content :editor="editor" class="prose my-4 mx-auto" />
+  <editor-content :editor="editor" class="prose prose-zinc my-4 mx-auto text-left" />
 
   </main>
 </div>

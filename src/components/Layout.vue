@@ -5,9 +5,10 @@
 <!-- <TestComponent /> -->
 <h1>side bar</h1>
   </aside>
-  <main class="flex flex-col flex-grow">
-<h1>main stuff</h1>
-<editor-content :editor="editor" />
+  <main class="flex flex-col flex-grow overflow-auto">
+<!-- TODO change focus colour?? -->
+  <editor-content :editor="editor" class="prose my-4 mx-auto" />
+
   </main>
 </div>
 
